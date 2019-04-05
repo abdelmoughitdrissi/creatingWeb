@@ -66,4 +66,6 @@ import { SeoService } from './seo.service';
   bootstrap: [AppComponent],
   schemas:      [ NO_ERRORS_SCHEMA ]
 })
-export class AppModule { }
+export class AppModule {
+  
+ }
